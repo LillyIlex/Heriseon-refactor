@@ -1,5 +1,5 @@
-# Heriseon Website 
-Search Engine Optimization and Digital
+# ** Heriseon Website **
+Search Engine Optimization and Digital Marketing
 
 ## Description
 
