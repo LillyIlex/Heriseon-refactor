@@ -9,10 +9,12 @@ The code should now be more concise, making it easier to read and refactor in th
 
 ### Usage
 My aim was to make the website, and it's code, more user friendly; therefore improving the overall experience.
-https://lillyilex.github.io/Heriseon-refactor/ will direct you to the landing page of the website. There is a navigation bar in the header for you navigate round the application with ease. 
+This link will direct you to the landing page of the website. There is a navigation bar in the header for you navigate round the application with ease. 
+https://lillyilex.github.io/Heriseon-refactor/
 
-![Screenshot of landing page](assets/images/screenshot.png)
-![Screenshot of landing page](assets/images/screenshot1.png)
+![Screenshot of landing page](images/screenshot1.png)
+
+![Screenshot of landing page](images/screenshot.png)
 
 #### Credits
 Pod 2 at Edx Front End Web Dev Bootcamp
